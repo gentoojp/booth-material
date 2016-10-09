@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 NEXT) (preloaded format=xelatex 2016.5.28)  9 OCT 2016 23:08
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 NEXT) (preloaded format=xelatex 2016.5.28)  10 OCT 2016 01:39
 entering extended mode
 **./document.tex
 (document.tex
@@ -430,8 +430,8 @@ LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
  ABD: EveryShipout initializing macros
-File: site-logo.png Graphic file (type QTm)
- <use  "site-logo.png" >
+File: larry0.png Graphic file (type QTm)
+ <use  "larry0.png" >
 File: gentoo-cow.png Graphic file (type QTm)
 
 <use  "gentoo-cow.png" > [1
@@ -444,8 +444,8 @@ cd-cover class: Remember that this document is type set in landscape
 (document.aux) ) 
 Here is how much of TeX's memory you used:
  11000 strings out of 428410
- 221731 string characters out of 3159548
- 258530 words of memory out of 3000000
+ 221725 string characters out of 3159548
+ 258529 words of memory out of 3000000
  14232 multiletter control sequences out of 15000+200000
  3939 words of font info for 15 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
