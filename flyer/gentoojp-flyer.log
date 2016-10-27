@@ -1,0 +1,343 @@
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2016.10.27)  27 OCT 2016 13:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**gentoojp-flyer.tex
+(./gentoojp-flyer.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2014/05/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texmf-site/tex/latex/leaflet/leaflet.cls
+Document Class: leaflet 2004/12/22 v1.0d LaTeX document class (JS,WaS,RN,HjG)
+(/usr/share/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+\@@@out@mark=\marks1
+\c@@@total@outs=\count82
+\c@@@last@exec=\count83
+
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count92
+\calc@Bcount=\count93
+\calc@Adimen=\dimen119
+\calc@Bdimen=\dimen120
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count94
+\calc@Cskip=\skip45
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/04/23 v3.0j Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+Class leaflet Info: Generating code for dvips on input line 257.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+ (/usr/share/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+ (/usr/share/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@LL@page=\count95
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./ascmac.sty
+Package: ascmac 2016/08/21 v2.0c ascmac wrapper (community edition) 
+
+(/usr/share/texmf-dist/tex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen123
+\@saveybaselineshift=\dimen124
+\scb@x=\box41
+\scscb@x=\box42
+\@bw=\dimen125
+\@nbox=\box43
+\@nbody=\box44
+\@scw=\dimen126
+\@itemh=\dimen127
+\@iboxpos=\toks16
+\@iboxstr=\box45
+\@bwsp=\box46
+\@@bwsp=\box47
+\@bcal=\count96
+\shaderule=\dimen128
+))
+(/usr/share/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box48
+\shadowsize=\dimen129
+\@Sbox=\box49
+\do@VerbBox=\toks17
+\the@fancyput=\toks18
+\this@fancyput=\toks19
+\EndVerbatimTokens=\toks20
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texmf-site/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+) (./gentoojp-flyer.aux)
+\openout1 = `gentoojp-flyer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 59.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+ABD: EveryShipout initializing macros
+\big@size=\dimen130
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 60
+.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 60
+.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 60
+.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 60
+.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 60.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 72.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 72.
+File: gentoo-10-1920x1200.jpg Graphic file (type eps)
+ <gentoo-10-1920x1200.jpg>
+File: ripples-gblend.eps Graphic file (type eps)
+
+<ripples-gblend.eps>
+File: portage-9999-1680x1050.png Graphic file (type eps)
+ <portage-9999-1680x1050.png>
+
+\LL@boxI=\box50
+
+    [1] ==> [I]
+File: larry-the-cow-full-udder.eps Graphic file (type eps)
+<larry-the-cow-full-udder.eps>
+\LL@boxII=\box51
+
+    [2] ==> [II]
+File: gentwoo_logo.eps Graphic file (type eps)
+<gentwoo_logo.eps>
+\LL@boxIII=\box52
+
+    [3] ==> [III]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 126.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 133.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 133.
+
+Overfull \hbox (3.8446pt too wide) in paragraph at lines 149--150
+[]\OT1/cmtt/m/n/10 PORTAGE_ELOG_CLASSES="log warn error qa" 
+ []
+
+
+Overfull \hbox (3.8446pt too wide) in paragraph at lines 150--151
+[]\OT1/cmtt/m/n/10 PORTAGE_ELOG_SYSTEM="custom:* echo mail" 
+ []
+
+
+Overfull \hbox (3.8446pt too wide) in paragraph at lines 151--153
+[]\OT1/cmtt/m/n/10 PORTAGE_ELOG_COMMAND="/usr/bin/gentwoo \ 
+ []
+
+
+Overfull \hbox (3.37715pt too wide) in paragraph at lines 151--153
+[]  \OT1/cmtt/m/n/10 '${PACKAGE}' '${LOGFILE}'" 
+ []
+
+File: walbrix_logo.eps Graphic file (type eps)
+<walbrix_logo.eps>
+\LL@boxIV=\box53
+
+    [4] ==> [IV]
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+[]$\OT1/cmtt/m/n/10 http : / / www . gentoo . org / main / en / graphics .
+ []
+
+\LL@boxV=\box54
+    [5] ==> [V]
+(./gentoojp-flyer.aux)
+Class leaflet Info: Generating empty page 6 on input line 203.
+
+
+\LL@boxVI=\box55
+
+    [6] ==> [VI]
+[V VI I] ==>
+[1]
+[II III IV] ==>
+[2] ) 
+Here is how much of TeX's memory you used:
+ 1866 strings out of 495251
+ 22895 string characters out of 6186940
+ 93805 words of memory out of 5000000
+ 5155 multiletter control sequences out of 15000+600000
+ 37772 words of font info for 106 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 32i,9n,35p,263b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on gentoojp-flyer.dvi (2 pages, 12824 bytes).
