@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2016.10.27)  27 OCT 2016 13:33
+This is e-pTeX, Version 3.14159265-p3.5-130605-2.6 (utf8.euc) (TeX Live 2014) (preloaded format=platex 2016.10.27)  27 OCT 2016 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -257,8 +257,8 @@ File: gentoo-10-1920x1200.jpg Graphic file (type eps)
 File: ripples-gblend.eps Graphic file (type eps)
 
 <ripples-gblend.eps>
-File: portage-9999-1680x1050.png Graphic file (type eps)
- <portage-9999-1680x1050.png>
+File: emerge.jpg Graphic file (type eps)
+ <emerge.jpg>
 
 \LL@boxI=\box50
 
@@ -332,12 +332,12 @@ Class leaflet Info: Generating empty page 6 on input line 203.
 [II III IV] ==>
 [2] ) 
 Here is how much of TeX's memory you used:
- 1866 strings out of 495251
- 22895 string characters out of 6186940
+ 1864 strings out of 495251
+ 22846 string characters out of 6186940
  93805 words of memory out of 5000000
- 5155 multiletter control sequences out of 15000+600000
+ 5154 multiletter control sequences out of 15000+600000
  37772 words of font info for 106 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  32i,9n,35p,263b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gentoojp-flyer.dvi (2 pages, 12824 bytes).
+Output written on gentoojp-flyer.dvi (2 pages, 12816 bytes).
