@@ -36,6 +36,7 @@ gentoojp-flyer.dvi:              \
 #	larry-the-cow-full-udder.svg
 #	ripples-gblend.svg
 
+#-c "[/CropBox [1 1 200 1]"
 gentoojp-flyer-grayscale.pdf: gentoojp-flyer.pdf
 	$(GS) \
 		-sDEVICE=pdfwrite \
