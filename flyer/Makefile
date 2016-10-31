@@ -29,7 +29,7 @@ gentoojp-flyer.dvi:              \
 	gentoojp-flyer.tex           \
 	ripples-gblend.eps           \
 	gentoo-10-1920x1200.jpg      \
-	portage-9999-1680x1050.png   \
+	emerge.jpg   \
 	larry-the-cow-full-udder.eps \
 	gentwoo_logo.eps             \
 	walbrix_logo.eps
@@ -43,6 +43,9 @@ gentoojp-flyer-grayscale.pdf: gentoojp-flyer.pdf
 		-sColorConversionStrategy=Gray \
 		-dOverrideICC \
 		-dHaveTransparency=false \
+		-dEmbedAllFonts=true \
+		-dCompressFonts=true \
+		-dSubsetFonts=true \
 		-o $@ \
 		-f $<
 
