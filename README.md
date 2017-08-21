@@ -1,2 +1,2 @@
 # osc
-oscイベントの資料
+Open Source Conference Japan event material
